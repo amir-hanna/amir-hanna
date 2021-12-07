@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amir-hanna
 - 👀 I’m interested in python, bash, C# ...
-- 🌱 I’m currently learning PyQt
+- 🌱 I’m currently learning PyQt5
 - 💞️ I’m looking to collaborate on small utility tools
 - 📫 How to reach me ...
 
